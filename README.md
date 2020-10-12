@@ -95,11 +95,11 @@ Em ordem sequencial:
 
 Precisa ter o go instalado caso não tenha acesse o [link](https://golang.org/dl/) para obter.
 
-Execute a [API](##-API-REST-##);
+Execute a [API](#api-rest);
 
-Execute a [interface web](##-INTERFACE-WEB-##);
+Execute a [interface web](#interface-web);
 
-Execute a [interface shell](##-INTERFACE-SHELL-##).
+Execute a [interface shell](#interface-shell).
 
 
 ## API REST ##
